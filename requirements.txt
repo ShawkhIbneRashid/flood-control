@@ -1,0 +1,10 @@
+pandas==1.3.5
+random
+numpy==1.21.6
+os
+opencv==4.6.0
+matplotlib==3.2.2
+torch==1.12.1
+torchvision==0.13.1
+time
+copy
