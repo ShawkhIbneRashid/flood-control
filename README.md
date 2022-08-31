@@ -7,7 +7,8 @@
   <p align="justify">
   First, install the required libraries from the requirements.txt file. Then, run the modelinit.py file. Make sure that the train, test and validation sets are in the same directory as the codes are. Alternatively, you can change the directory in the code. The input size has to match with the model being used. For example, the input size needs to be 224 for DenseNet and 299 for Inception v3.
   </p>
-  <a href="https://drive.google.com/uc?export=view&id=1sVd6e9NmuCWBE9x7GqWKtp5ojVy55VtL"><img src="https://drive.google.com/uc?export=view&id=1sVd6e9NmuCWBE9x7GqWKtp5ojVy55VtL" style="width: 650px; max-width: 100%; height: auto" title="Some examples from the dataset along with their respective labels." />
+  
+  <a href="https://drive.google.com/uc?export=view&id=12XGnDiWzseZWYizbx8EbgFFqXBdjAqd-"><img src="https://drive.google.com/uc?export=view&id=12XGnDiWzseZWYizbx8EbgFFqXBdjAqd-" style="width: 100%; max-width: 100%; height: 100%" title="Some examples from the dataset along with their respective labels." />
   
 </body>
 </html>
